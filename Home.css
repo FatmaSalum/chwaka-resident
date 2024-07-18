@@ -1,0 +1,22 @@
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    text-align: center;
+  }
+  
+  .home-container h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  .home-container p {
+    font-size: 1.5em;
+    max-width: 600px;
+  }
+  
